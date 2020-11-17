@@ -25,13 +25,13 @@
     background-color: #e1e1e1
 } 
 
-@media screen and (max-width: 1260px) {
     
-    .infocardContainer{
-        margin: 0 auto;
-        padding: 0;
-    }
+.infocardContainer{
+    max-width: 1260px;
+    margin: 0 auto;
+    padding: 0;
 }
+
 
 .infoCardHeadline{
     color: black;
