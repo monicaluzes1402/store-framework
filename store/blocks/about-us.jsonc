@@ -44,6 +44,7 @@
       }
     },
 
+    
     "tab-layout#home": {
       "children": [
         "tab-list#home",
