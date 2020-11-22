@@ -45,6 +45,7 @@
         "children": [
           "logo",
           "header-spacer",
+          "search-bar",
           "minicart",
           "login"
         ],
